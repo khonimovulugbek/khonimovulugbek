@@ -2,7 +2,7 @@
 
 <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"/>
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"/>
+<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"/>
 
 
 
