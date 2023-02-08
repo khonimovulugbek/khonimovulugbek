@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/khonimov-ulugbek" target="blank"><img align="center" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/linkedin.gif" alt="khonimov-ulugbek" /></a>
 <a href="https://fb.com/ulugbek.khanimov" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/facebook-new.png" alt="ulugbek.khanimov"/></a>
 <a href="https://instagram.com/senior_khan_u" target="blank"><img align="center" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/instagram.gif" alt="senior_khan_u"/></a>
+<a href="mailto:khonimovulugbek@gmail.com"><img align="center" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/gmail.gif" alt="gmail"/></a>
 </p>
 
 
