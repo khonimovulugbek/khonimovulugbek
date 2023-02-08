@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<img src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/main-background.png?raw=true"/>
+
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/)
 
 <!--
 **khonimovulugbek/khonimovulugbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
