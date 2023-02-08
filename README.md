@@ -17,9 +17,9 @@
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/khonimov-ulugbek" target="blank"><img align="center" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/telegram.gif" alt="khonimov-ulugbek" /></a>
+<a href="https://t.me/Senior_khan" target="blank"><img align="center" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/telegram.gif" alt="khonimov-ulugbek" /></a>
 <a href="https://linkedin.com/in/khonimov-ulugbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khonimov-ulugbek" height="30" width="40" /></a>
-<a href="https://fb.com/ulugbek.khanimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ulugbek.khanimov" height="30" width="40" /></a>
+<a href="https://fb.com/ulugbek.khanimov" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/facebook-new.png" alt="ulugbek.khanimov"/></a>
 <a href="https://instagram.com/senior_khan_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senior_khan_u" height="30" width="40" /></a>
 </p>
 
