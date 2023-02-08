@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Khonimov Ulugbek</h1>
 <h3 align="center">Java backend developer from Uzbekistan 🇺🇿</h3>
 
-- 🔭 I’m currently working on [microservices](https://github.com/khonimovulugbek/microservice-new)
+- 🔭 I’m currently working on [microservice](https://github.com/khonimovulugbek/microservice-new) project
 
 - 🌱 I’m currently learning **Android**
 
