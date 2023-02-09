@@ -5,8 +5,8 @@
 
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"><img height="185rem"  src="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"/></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"><img height="185rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact&theme=prussian"/></a>
+<a href="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"><img height="180rem"  src="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"/></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact&theme=prussian"/></a>
 </div>
 
 ##
