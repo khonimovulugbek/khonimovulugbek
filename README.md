@@ -1,30 +1,19 @@
 <img src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/main-background.png?raw=true"/>
+
+
+##
+
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"><img height="180rem"  src="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"/></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"><img height="180rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact&theme=prussian"/></a>
 </div>
 
 
+##
 
-<h1 align="center">Hi 👋, I'm Khonimov Ulugbek</h1>
-<h3 align="center">Java backend developer from Uzbekistan 🇺🇿</h3>
 
-- 🔭 I’m currently working on [microservice](https://github.com/khonimovulugbek/microservice-new) project
-
-- 🌱 I’m currently learning **Android**
-
-- 📄 Know about my experiences in my [resume](https://github.com/khonimovulugbek/khonimovulugbek/raw/main/Khonimov%20Ulugbek%20Last%20CV.pdf) or [portfolio](https://khonimov-ulugbek.netlify.app)
-
-<h3 align="center">Connect With Me</h3>
-<p align="center">
-<a href="https://t.me/Senior_khan" target="blank"><img align="center" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/telegram.gif" alt="khonimov-ulugbek" /></a>
-<a href="https://linkedin.com/in/khonimov-ulugbek" target="blank"><img align="center" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/linkedin.gif" alt="khonimov-ulugbek" /></a>
-<a href="https://fb.com/ulugbek.khanimov" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/facebook-new.png" alt="ulugbek.khanimov"/></a>
-<a href="https://instagram.com/senior_khan_u" target="blank"><img align="center" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/instagram.gif" alt="senior_khan_u"/></a>
-<a href="mailto:khonimovulugbek@gmail.com"><img align="center" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/gmail.gif" alt="gmail"/></a>
-</p>
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
+<div>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> </a>
@@ -41,9 +30,19 @@
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" width="40" height="40"/></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40"/></a>
 <a href="https://termius.com/" target="_blank" rel="noreferrer"> <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/17/e0/8a/17e08a21-3ba0-43dd-0137-7f71c3aecd74/icon.png/1200x630bb.png" width="40" height="40"/></a>
-</p>
- 
+</div>
 
+
+###
+
+
+<div>
+<a href="https://t.me/Senior_khan" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="khonimov-ulugbek" /></a>
+<a href="https://linkedin.com/in/khonimov-ulugbek" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="khonimov-ulugbek" /></a>
+<a href="https://fb.com/ulugbek.khanimov" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ulugbek.khanimov"/></a>
+<a href="https://instagram.com/senior_khan_u" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="senior_khan_u"/></a>
+<a href="mailto:khonimovulugbek@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+</div>
 
 
 
