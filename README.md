@@ -1,4 +1,5 @@
-<img src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/main-background.png?raw=true"/>
+<img src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png"/>
+
 
 
 ##
