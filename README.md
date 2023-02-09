@@ -6,9 +6,14 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"><img height="180rem"  src="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"/></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"><img height="180rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact&theme=prussian"/></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact&theme=prussian"/></a>
 </div>
 
+##
+
+<div>
+ <a href="https://online.pdp.uz/checkCertificateQr/0834bba0-6783-4e38-b8ea-0a3d3173caba"><img height="180rem" src="https://drive.google.com/uc?id=1FEW7HFVJ7Hc0RtZOc7Ivaklj5YP4ZQaP&export=download" alt="pdp"/></a>
+</div>
 
 ##
 
@@ -42,6 +47,7 @@
 <a href="https://fb.com/ulugbek.khanimov" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ulugbek.khanimov"/></a>
 <a href="https://instagram.com/senior_khan_u" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="senior_khan_u"/></a>
 <a href="mailto:khonimovulugbek@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://khonimov-ulugbek.netlify.app/"><img align="center" src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" alt="portfolio"/></a>
 </div>
 
 
