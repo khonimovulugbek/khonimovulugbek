@@ -12,8 +12,8 @@
 ##
 
 <div>
-<img height="280rem" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/mohirfest.JPG" alt="mohirfest"/>
-<img height="280rem" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/open_data.jpg" alt="open-data"/>
+<img height="250rem" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/mohirfest.JPG" alt="mohirfest"/>
+<img height="250rem" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/open_data.jpg" alt="open-data"/>
 </div>
 
 ##
