@@ -1,7 +1,7 @@
 <img src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/main-background.png?raw=true"/>
 
-<a href="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"><img align="left" width="49%"  src="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"/></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"><img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"/></a>
+<a href="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"><img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"/></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"><img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"/></a>
 
 <br><br><br><br><br><br><br><br><br><br>
 
