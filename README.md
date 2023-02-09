@@ -13,6 +13,7 @@
 
 <div>
  <a href="https://online.pdp.uz/checkCertificateQr/0834bba0-6783-4e38-b8ea-0a3d3173caba"><img height="180rem" src="https://drive.google.com/uc?id=1FEW7HFVJ7Hc0RtZOc7Ivaklj5YP4ZQaP&export=download" alt="pdp"/></a>
+<a href="https://mohirdevbucket.s3.eu-central-1.amazonaws.com/certificates/cert-94ab9298-3df2-45d5-8853-22a7aa7618cb-prac-9Pj37ReEO.pdf"><img height="180rem" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/MohirFest.jpg" alt="mohirdev"/></a>
 </div>
 
 ##
