@@ -1,4 +1,4 @@
-<img src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png"/>
+<a href="https://khonimov-ulugbek.netlify.app/"><img src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png"/></a>
 
 
 
