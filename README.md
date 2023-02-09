@@ -5,23 +5,23 @@
 
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"><img height="180rem"  src="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"/></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact&theme=prussian"/></a>
+<a href="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"><img height="190rem"  src="https://github-readme-stats.vercel.app/api?username=khonimovulugbek&show_icons=true&theme=prussian"/></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact"><img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khonimovulugbek&layout=compact&theme=prussian"/></a>
 </div>
 
 ##
 
 <div>
-<img height="250rem" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/mohirfest.JPG" alt="mohirfest"/>
-<img height="250rem" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/open_data.jpg" alt="open-data"/>
+<img height="240rem" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/mohirfest.JPG" alt="mohirfest"/>
+<img height="240rem" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/open_data.jpg" alt="open-data"/>
 </div>
 
 ##
 
 <div>
- <a href="https://online.pdp.uz/checkCertificateQr/0834bba0-6783-4e38-b8ea-0a3d3173caba"><img height="200rem" src="https://drive.google.com/uc?id=1FEW7HFVJ7Hc0RtZOc7Ivaklj5YP4ZQaP&export=download" alt="pdp"/></a>
+ <a href="https://online.pdp.uz/checkCertificateQr/0834bba0-6783-4e38-b8ea-0a3d3173caba"><img height="180rem" src="https://drive.google.com/uc?id=1FEW7HFVJ7Hc0RtZOc7Ivaklj5YP4ZQaP&export=download" alt="pdp"/></a>
 <a href="https://mohirdevbucket.s3.eu-central-1.amazonaws.com/certificates/cert-94ab9298-3df2-45d5-8853-22a7aa7618cb-prac-9Pj37ReEO.pdf"><img height="180rem" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/MohirFest.jpg" alt="mohirdev"/></a>
-<img height="200rem" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/IMG_6868.JPG" alt="mohirdev"/>
+<img height="180rem" src="https://github.com/khonimovulugbek/khonimovulugbek/blob/main/IMG_6868.JPG" alt="mohirdev"/>
 </div>
 
 ##
